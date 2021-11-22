@@ -1,4 +1,4 @@
-.footer{
+footer{
     background-color:#ffffff;
     height:60px;
     line-height:60px;
@@ -6,4 +6,10 @@
     bottom:0px;
     position: absolute;
     text-align: center;
+}
+
+footer p{
+    height:60px;
+    line-height:60px;
+    margin:0;
 }
