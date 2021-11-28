@@ -4,13 +4,7 @@ footer{
     line-height:60px;
     width:100%;
     bottom:0px;
-    border-top: 1px solid #CCCCCC;
+    border-top:1px solid #CCCCCC;
     position: absolute;
     text-align: center;
-}
-
-footer p{
-    height:60px;
-    line-height:60px;
-    margin:0;
 }
